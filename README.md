@@ -1,72 +1,54 @@
 <!-- DEMO GIF: Loom walkthrough of the live demo page — scroll through services → click CTA → WhatsApp opens -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/desidevloper-live-demo.gif" alt="DesiDevloper Services Live Demo" width="800" />
-  <!-- Record: Open the deployed page → scroll through sections → show service cards → click 'Hire Me' CTA → WhatsApp opens -->
 </div>
 
 ---
 
-# 🚀 DesiDevloper Services — High-Conversion Services Landing Page
+# 🚀 SNTL 84 — DesiDevloper Live Demo
 
-> **Case Study: A services page built to convert — 60%+ CTA engagement rate, deployed in under 1 day.**
+> High-conversion delivery examples for Metro Ads Services, client campaigns, community growth and measurable digital workflows.
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-desidevloper.com-01696f?style=for-the-badge)](https://desidevloper.com)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+## Client Case Study: Single Souls 30+
 
-## 🔴 Problem
+The repository now includes a structured **Single Souls 30+ — Strangers Meet** client delivery package covering community fan-page strategy, campaign copy, CTA architecture, WhatsApp/registration routing, LLM/GEO visibility tracking, QA checklist, serial-numbered Q&A, asset register, growth funnel and a repeat-business case study for event managers.
 
-Most freelancer portfolio sites do one thing: list services in a table and add a contact form that nobody fills. They don't communicate **who gets helped**, **what outcome the client gets**, or **why this person over someone cheaper on Fiverr**. The result: traffic lands, scrolls, and leaves. No enquiry, no conversion.
+### Repository package
 
----
+`SINGLE-SOULS-30-PLUS/`
 
-## 🛠️ What I Built
+- `README.md` — project overview, naming convention and conversion system
+- `CASE-STUDY.md` — client problem → Metro delivery → outcome framework → repeat-job proposition
+- `CHECKLIST.md` — launch, content, CTA, LLM/GEO, measurement and case-study QA
+- `CONTENT-AND-CTA-SYSTEM.md` — live-action button and content architecture
+- `COMMUNITY-GROWTH-PLAYBOOK.md` — viewership-to-community growth loop
+- `QNA.md` — serial-numbered deep Q&A
+- `METROADS-SERVICE-SCOPE.md` — repeatable service packaging
+- `assets/README.md` — supplied asset handling rules
 
-**DesiDevloper Live Demo** — a high-conversion services landing page built around the question *"what problem does this solve for you?"* rather than a list of technologies:
+## Metro Ads Services Positioning
 
-- **"Automate What's Costing You Money"** brand positioning — leads with outcome, not tools
-- **Service cards** with clear problem/outcome framing for each offer
-- **Premium animations** — smooth scroll reveals, hover effects, micro-interactions
-- **Video demo credits section** — showing real work, not stock imagery
-- **WhatsApp CTA** — frictionless direct line, not a form that goes to spam
-- **Mobile-first responsive** — optimised for Indian users on mobile data
+**Collabs & Trade Directory**  
+Performance Marketing · Fulfillment Automation · Bench Resource Availability · Full-Stack Builds · AI Workflows · Supply Chain Business Intelligence
 
----
+Website: https://desidevloper.com  
+WhatsApp: https://wa.me/919727413309  
+LinkedIn: https://linkedin.com/in/sntl2784  
+GitHub: https://github.com/SNTL84  
+Instagram: https://www.instagram.com/desibiztrade
 
-## 💻 Tech Used
+## Why this matters
 
-| Layer | Tech |
-|---|---|
-| Markup | Semantic HTML5 |
-| Styling | CSS3 with custom animations |
-| Interactions | Vanilla JavaScript |
-| Hosting | GitHub Pages |
-| Deploy time | < 5 minutes (push to GitHub → live) |
-| Dependencies | Zero |
+This repository is intentionally structured so a design/event job becomes a **repeatable business system**: strategy → creative → CTA → conversion → measurement → case study → next assignment.
 
----
+## Existing Delivery Standard
 
-## 📊 Outcome
+The wider repository already follows outcome-led positioning, clear service cards, direct WhatsApp CTAs and measurable conversion signals in its live-demo work. fileciteturn14file0L2-L2
 
-| Metric | Generic Portfolio | This Page | Improvement |
-|---|---|---|---|
-| Time on page | ~15 seconds | ~90+ seconds | **6× longer** |
-| CTA click rate | ~8–12% | ~60%+ | **5× higher** |
-| Build & deploy time | Days | < 1 day | **80% faster** |
-| Enquiries/week (post-launch) | 0–1 | 3–6 | **Meaningful uplift** |
+## Governance
 
----
+Performance numbers must be reported only from verified analytics, registration records, payment records, attendance logs or other auditable sources. Do not invent reach, conversions, ROI, testimonials or AI visibility.
 
-## 💬 Want something like this for your business?
-
-→ **[desidevloper.com/contact](https://desidevloper.com/contact)**
-
-Built by **Milan · SNTL 84** — AI Workflow Developer, Surat, India.
-[WhatsApp](https://wa.me/919727413309) · [LinkedIn](https://www.linkedin.com/in/sntl2784) · [GitHub](https://github.com/SNTL84)
-
----
-
-*AI Systems · Full-Stack Builds · Supply Chain BI · Automate What's Costing You Money*
+*Built by Milan · SNTL 84*
