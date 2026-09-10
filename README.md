@@ -20,6 +20,26 @@
 
 ---
 
+## 🟠 MetroMate Brand Assets
+
+<div align="center">
+
+<a href="./assets/metromate-brand-logo.jpg">
+  <img src="./assets/metromate-brand-logo.jpg" alt="MetroMate Digital Marketing Service brand logo" width="720" />
+</a>
+
+<br />
+
+<a href="./assets/metromate-collabs-trade-directory.png">
+  <img src="./assets/metromate-collabs-trade-directory.png" alt="MetroMate Collabs & Trade Directory brand logo" width="720" />
+</a>
+
+</div>
+
+> **Approved visual assets:** MetroMate Digital Marketing Service and MetroMate Collabs & Trade Directory. The images are stored in the repository under `assets/` and are displayed directly in this README using repository-relative paths for reliable GitHub rendering.
+
+---
+
 ## 💡 Collab — What’s Costing You Time?
 
 > **Collab What’s Costing You Time.**
