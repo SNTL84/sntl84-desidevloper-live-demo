@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 SNTL 84 — DesiDevloper Live Demo
+# 🚀Single Souls 30+ — Strangers Meet is a community/event campaign by SNTL 84 — DesiDevloper Live Demo 
 
 **Agentic AI Workflow Professional · Performance Marketing · Automation · Full-Stack Builds · Supply Chain Business Intelligence**
 
