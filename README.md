@@ -336,25 +336,6 @@ Because the deliverable is a reusable operating system rather than an isolated d
 
 Cost-per-click performed well, averaging around **₹2 per click**, indicating a strong, low-cost response rate. This supports investing further in paid follow-up for future events, subject to confirming the figure against the Ads Manager report before it is published as external proof.
 
-## 🔗 Facebook Page References
-
-These Facebook page references are maintained for future integration with **DesiDevloper.com**. Page names, links and bios are kept as reference data only.
-
-| S.No | Page Name | Link | Bio |
-|---:|---|---|---|
-| 1 | MetroMate Real Estate Consultant | https://www.facebook.com/1092765500593790 | Real Estate Consultant in Surat |
-| 2 | Soni Milind | https://www.facebook.com/1131099810086787 | Personal Brand |
-| 3 | MetroMate | https://www.facebook.com/1193286440535180 | Main Brand Page |
-| 4 | Mads Online | https://www.facebook.com/1251317284739690 | Online Services |
-| 5 | Mad - Tech | https://www.facebook.com/1252972387909910 | Tech Solutions |
-| 6 | Mads Caterings | https://www.facebook.com/1286751047862484 | Catering Services |
-| 7 | Mbc | https://www.facebook.com/1287845491086656 | Business Page |
-| 8 | MNn | https://www.facebook.com/1323971740807107 | Business Page |
-| 9 | Mads Direct | https://www.facebook.com/1360911753764884 | Direct Services |
-| 10 | Mbs | https://www.facebook.com/1371971029331961 | Business Page |
-| 11 | Mads Direct | https://www.facebook.com/1379825511874679 | Direct Services |
-| 12 | Mad-icare | https://www.facebook.com/1390724564114913 | Healthcare / Care Services |
-
 ---
 
 ## 🛠️ Service positioning
